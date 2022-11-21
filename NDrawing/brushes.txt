@@ -1,0 +1,5 @@
+﻿System.Drawing.Drawing2D.HatchBrush
+System.Drawing.Drawing2D.LinearGradientBrush
+System.Drawing.Drawing2D.PathGradientBrush
+System.Drawing.SolidBrush
+System.Drawing.TextureBrush
